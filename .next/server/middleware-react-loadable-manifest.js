@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{\"index.js -> ../components/ProductCard\":{\"id\":\"index.js -> ../components/ProductCard\",\"files\":[\"static/chunks/components_ProductCard_js.js\"]}}"
+self.__REACT_LOADABLE_MANIFEST='{"index.js -> ../components/ProductCard":{"id":2817,"files":["static/css/d97b2d683506a6e9.css","static/chunks/817.e48130dbfbb578ec.js"]}}';

@@ -1,8 +1,9 @@
 {
   "index.js -> ../components/ProductCard": {
-    "id": "index.js -> ../components/ProductCard",
+    "id": 2817,
     "files": [
-      "static/chunks/components_ProductCard_js.js"
+      "static/css/d97b2d683506a6e9.css",
+      "static/chunks/817.e48130dbfbb578ec.js"
     ]
   }
 }
