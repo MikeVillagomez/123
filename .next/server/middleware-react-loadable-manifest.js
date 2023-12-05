@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"index.js -> ../components/ProductCard\":{\"id\":\"index.js -> ../components/ProductCard\",\"files\":[\"static/chunks/components_ProductCard_js.js\"]}}"
