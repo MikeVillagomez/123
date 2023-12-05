@@ -6,6 +6,7 @@ import SignUpSection from '../components/SignUpSection';
 import Footer from '../components/Footer'; // Import the Footer component
 import styles from '../styles/Home.module.css';
 
+
 // Dynamically import the ProductCard component
 const DynamicProductCard = dynamic(() => import('../components/ProductCard'), {
   loading: () => <p>Loading...</p>,

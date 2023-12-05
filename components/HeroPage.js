@@ -3,6 +3,7 @@ import React from 'react';
 import { Button } from '@nextui-org/react';
 import styles from '../styles/Home.module.css';
 
+
 const HeroPage = () => {
   return (
     <div className={styles.hero}>
